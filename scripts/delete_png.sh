@@ -1,0 +1,1 @@
+for f in *.png; do rm -rf "$f"; done
