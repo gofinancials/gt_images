@@ -1,0 +1,4512 @@
+{
+  "logos": [
+    {
+      "path": "banks/access_bank_nigeria.webp",
+      "name": "Access Bank Nigeria",
+      "section": "Commercial Banks",
+      "nodeId": "1:7",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/access_bank_nigeria.webp",
+      "name": "Access Bank Plc (Diamond)",
+      "section": "Commercial Banks",
+      "nodeId": "1:9",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/alpha_morgan_bank.webp",
+      "name": "Alpha Morgan Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:11",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/alternative_bank_limited.webp",
+      "name": "Alternative Bank Limited",
+      "section": "Commercial Banks",
+      "nodeId": "1:13",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/citibank.webp",
+      "name": "Citibank",
+      "section": "Commercial Banks",
+      "nodeId": "1:15",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ecobank.webp",
+      "name": "Ecobank",
+      "section": "Commercial Banks",
+      "nodeId": "1:17",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fidelity_bank.webp",
+      "name": "Fidelity Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:19",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_bank_of_nigeria.webp",
+      "name": "First Bank of Nigeria",
+      "section": "Commercial Banks",
+      "nodeId": "1:32",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_city_monument_bank.webp",
+      "name": "First City Monument Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:34",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/globus_bank.webp",
+      "name": "Globus Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:36",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gtbank_plc.webp",
+      "name": "GTBank Plc",
+      "section": "Commercial Banks",
+      "nodeId": "1:38",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/heritage_bank.webp",
+      "name": "Heritage Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:40",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/jaiz_bank.webp",
+      "name": "Jaiz Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:42",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/keystone_bank.webp",
+      "name": "Keystone Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:44",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/lotus_bank.webp",
+      "name": "Lotus Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:58",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/optimus_bank_limited.webp",
+      "name": "Optimus Bank Limited",
+      "section": "Commercial Banks",
+      "nodeId": "1:61",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nova_bank.webp",
+      "name": "NOVA Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:78",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nexim_bank.webp",
+      "name": "Nexim Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:80",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/premiumtrust_bank.webp",
+      "name": "PremiumTrust Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:88",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/parallex_bank.webp",
+      "name": "Parallex Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:90",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/polaris_bank.webp",
+      "name": "Polaris Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:92",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/providus_bank.webp",
+      "name": "Providus Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:94",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/signature_bank_ltd.webp",
+      "name": "Signature Bank Ltd",
+      "section": "Commercial Banks",
+      "nodeId": "1:96",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/stanbic_ibtc_bank.webp",
+      "name": "Stanbic IBTC Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:98",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/standard_chartered_bank.webp",
+      "name": "Standard Chartered Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:102",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sterling_bank.webp",
+      "name": "Sterling Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:104",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/summit_bank.webp",
+      "name": "Summit Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:106",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/suntrust_bank.webp",
+      "name": "SunTrust Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:108",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/taj_bank.webp",
+      "name": "TAJ Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:110",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/tatum_bank.webp",
+      "name": "Tatum Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:112",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/titan_trust_bank.webp",
+      "name": "Titan Trust Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:114",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/union_bank.webp",
+      "name": "Union Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:116",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/united_bank_for_africa.webp",
+      "name": "United Bank for Africa",
+      "section": "Commercial Banks",
+      "nodeId": "1:118",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/unity_bank.webp",
+      "name": "Unity Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:120",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/wema_bank.webp",
+      "name": "Wema Bank",
+      "section": "Commercial Banks",
+      "nodeId": "1:122",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/zenith_bank_plc.webp",
+      "name": "Zenith Bank Plc",
+      "section": "Commercial Banks",
+      "nodeId": "1:124",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/access_bank_nigeria.webp",
+      "name": "Access Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1711",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/access_bank_nigeria.webp",
+      "name": "Access Money",
+      "section": "Mobile Money",
+      "nodeId": "1:1716",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/access_bank_nigeria.webp",
+      "name": "Access Yello & Beta",
+      "section": "Mobile Money",
+      "nodeId": "1:1721",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/alat_by_wema.webp",
+      "name": "ALAT by WEMA",
+      "section": "Mobile Money",
+      "nodeId": "3:984",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/betastack_technologies.webp",
+      "name": "Betastack Technologies",
+      "section": "Mobile Money",
+      "nodeId": "1:1736",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/carbon.webp",
+      "name": "Carbon",
+      "section": "Mobile Money",
+      "nodeId": "1:1738",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/cellulant.webp",
+      "name": "Cellulant",
+      "section": "Mobile Money",
+      "nodeId": "1:1746",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/chams_mobile.webp",
+      "name": "Chams Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1761",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/contec_global_nownow.webp",
+      "name": "Contec Global (NowNow)",
+      "section": "Mobile Money",
+      "nodeId": "1:1763",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/eartholeum.webp",
+      "name": "Eartholeum",
+      "section": "Mobile Money",
+      "nodeId": "1:1765",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ecobank_xpress_account.webp",
+      "name": "Ecobank Xpress Account",
+      "section": "Mobile Money",
+      "nodeId": "1:1804",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ecobank_mobile.webp",
+      "name": "Ecobank Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1806",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/etranzact.webp",
+      "name": "eTRANZACT",
+      "section": "Mobile Money",
+      "nodeId": "1:1808",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/eyowo.webp",
+      "name": "eyowo",
+      "section": "Mobile Money",
+      "nodeId": "1:1810",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_bank_of_nigeria.webp",
+      "name": "FBN Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1812",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_city_monument_bank.webp",
+      "name": "FCMB Easy Account",
+      "section": "Mobile Money",
+      "nodeId": "1:1814",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fets.webp",
+      "name": "FETS",
+      "section": "Mobile Money",
+      "nodeId": "1:1822",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fidelity_bank.webp",
+      "name": "Fidelity Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1824",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/firstmonie_wallet.webp",
+      "name": "FirstMonie Wallet",
+      "section": "Mobile Money",
+      "nodeId": "1:1826",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/flutterwave.webp",
+      "name": "Flutterwave",
+      "section": "Mobile Money",
+      "nodeId": "1:1828",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fortis_mobile.webp",
+      "name": "Fortis Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1830",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gomoney.webp",
+      "name": "GoMoney",
+      "section": "Mobile Money",
+      "nodeId": "1:1832",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gtbank_plc.webp",
+      "name": "GT Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1835",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gtbank_plc.webp",
+      "name": "GTBank Mobile Money",
+      "section": "Mobile Money",
+      "nodeId": "1:1837",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/hedonmark.webp",
+      "name": "Hedonmark",
+      "section": "Mobile Money",
+      "nodeId": "1:1839",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/innovectives_kesh.webp",
+      "name": "Innovectives Kesh",
+      "section": "Mobile Money",
+      "nodeId": "1:1844",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/intellifin.webp",
+      "name": "Intellifin",
+      "section": "Mobile Money",
+      "nodeId": "1:1853",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/jubileelife.webp",
+      "name": "JubileeLife",
+      "section": "Mobile Money",
+      "nodeId": "1:1855",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kadick_integration.webp",
+      "name": "Kadick Integration",
+      "section": "Mobile Money",
+      "nodeId": "1:1857",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kegow.webp",
+      "name": "Kegow",
+      "section": "Mobile Money",
+      "nodeId": "1:1859",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kegow.webp",
+      "name": "KEGOW (ChamsMobile).png",
+      "section": "Mobile Money",
+      "nodeId": "1:1861",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/m36.webp",
+      "name": "M36",
+      "section": "Mobile Money",
+      "nodeId": "1:1863",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mkudi.webp",
+      "name": "Mkudi",
+      "section": "Mobile Money",
+      "nodeId": "1:1865",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/one_finance.webp",
+      "name": "One Finance",
+      "section": "Mobile Money",
+      "nodeId": "1:1871",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/paga.webp",
+      "name": "Paga",
+      "section": "Mobile Money",
+      "nodeId": "1:1875",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/palmpay.webp",
+      "name": "Palmpay",
+      "section": "Mobile Money",
+      "nodeId": "1:1877",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/parkway.webp",
+      "name": "ParkWay",
+      "section": "Mobile Money",
+      "nodeId": "1:1881",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/parkway_readycash.webp",
+      "name": "ParkWay-ReadyCash",
+      "section": "Mobile Money",
+      "nodeId": "1:1883",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/payattitude_online.webp",
+      "name": "PayAttitude Online",
+      "section": "Mobile Money",
+      "nodeId": "1:1890",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/paystack_titan.webp",
+      "name": "Paystack-Titan",
+      "section": "Mobile Money",
+      "nodeId": "1:1907",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/paycom_opay.webp",
+      "name": "PAYCOM (Opay)",
+      "section": "Mobile Money",
+      "nodeId": "1:1909",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pocket_app.webp",
+      "name": "Pocket App",
+      "section": "Mobile Money",
+      "nodeId": "1:1913",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/purplemoney.webp",
+      "name": "Purplemoney",
+      "section": "Mobile Money",
+      "nodeId": "1:1915",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sparkle.webp",
+      "name": "Sparkle",
+      "section": "Mobile Money",
+      "nodeId": "1:1917",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/stanbic_ibtc_bank.webp",
+      "name": "Stanbic IBTC @ease",
+      "section": "Mobile Money",
+      "nodeId": "1:1921",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/stanbic_ibtc_bank.webp",
+      "name": "Stanbic Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1925",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/stanbic_ibtc_bank.webp",
+      "name": "StanbicMobileMoney",
+      "section": "Mobile Money",
+      "nodeId": "1:1929",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sterling_bank.webp",
+      "name": "Sterling Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1933",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/simplify_energy.webp",
+      "name": "Simplify Energy",
+      "section": "Mobile Money",
+      "nodeId": "1:1935",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/tagpay.webp",
+      "name": "TAGPAY",
+      "section": "Mobile Money",
+      "nodeId": "1:1937",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/tangerine_money.webp",
+      "name": "Tangerine Money",
+      "section": "Mobile Money",
+      "nodeId": "1:1957",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/teasy_mobile.webp",
+      "name": "Teasy MOBILE",
+      "section": "Mobile Money",
+      "nodeId": "1:1959",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/tenn.webp",
+      "name": "TENN",
+      "section": "Mobile Money",
+      "nodeId": "1:1961",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/uba_moni.webp",
+      "name": "UBA MONI",
+      "section": "Mobile Money",
+      "nodeId": "1:1963",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/unlimit_nigeria_limited.webp",
+      "name": "Unlimit Nigeria Limited",
+      "section": "Mobile Money",
+      "nodeId": "1:1967",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/vt_networks.webp",
+      "name": "VT Networks",
+      "section": "Mobile Money",
+      "nodeId": "1:1969",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/xpressmts.webp",
+      "name": "XpressMTS",
+      "section": "Mobile Money",
+      "nodeId": "1:1971",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/xpress_wallet.webp",
+      "name": "Xpress Wallet",
+      "section": "Mobile Money",
+      "nodeId": "1:1973",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/zenith_bank_plc.webp",
+      "name": "ZENITH Mobile",
+      "section": "Mobile Money",
+      "nodeId": "1:1987",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/zenith_bank_plc.webp",
+      "name": "Zenith Eazy Wallet",
+      "section": "Mobile Money",
+      "nodeId": "1:1991",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/zinternet_kongapay.webp",
+      "name": "ZINTERNET - KONGAPAY",
+      "section": "Mobile Money",
+      "nodeId": "1:1993",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/abbey_mortgage_bank.webp",
+      "name": "Abbey Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2139",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/adamawa_mortgage_bank_limited.webp",
+      "name": "Adamawa Mortgage Bank Limited",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2143",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ag_mortgage_bank.webp",
+      "name": "AG Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2145",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/aso_savings_and_loans.webp",
+      "name": "ASO Savings and Loans",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2156",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/aspire_mortgage_bank.webp",
+      "name": "Aspire Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2158",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/brent_mortgage_bank.webp",
+      "name": "Brent Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2161",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/cooperative_mortgage_bank.webp",
+      "name": "Cooperative Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2163",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/citycode_mortage_bank.webp",
+      "name": "CITYCODE MORTAGE BANK",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2165",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/delta_trust_mortgage_bank.webp",
+      "name": "Delta Trust Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2167",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_generation_mortgage_bank.webp",
+      "name": "First Generation Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2169",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/firsttrust_mortgage_bank_nigeria.webp",
+      "name": "FirstTrust Mortgage Bank Nigeria",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2171",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gateway_mortgage_bank_ltd.webp",
+      "name": "Gateway Mortgage Bank LTD",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2179",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/haggai_mortgage_bank.webp",
+      "name": "Haggai Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "3:1400",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/global_trust_savings_and_loans_limited.webp",
+      "name": "Global Trust Savings and Loans Limited",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2214",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/imperial_homes_mortgage_bank.webp",
+      "name": "Imperial Homes Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2216",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ibom_mortgage_bank.webp",
+      "name": "Ibom Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2229",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/infinity_trust_mortgage_bank.webp",
+      "name": "Infinity Trust Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2231",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/jigawa_savings_and_loans_limited.webp",
+      "name": "Jigawa Savings and Loans Limited",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2246",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/jubileelife_mortgage_bank.webp",
+      "name": "JubileeLife Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2312",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kebbi_state_home_savings_and_loans.webp",
+      "name": "Kebbi State Home Savings and Loans",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2314",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/lagos_building_investment_company.webp",
+      "name": "Lagos Building Investment Company",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2316",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/living_trust_mortgage_bank.webp",
+      "name": "Living Trust Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2318",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mayfresh_mortgage_bank.webp",
+      "name": "MayFresh Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2320",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mutual_alliance_mortgage_bank.webp",
+      "name": "Mutual Alliance Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2322",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/omoluabi_mortgage_bank.webp",
+      "name": "Omoluabi Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2324",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/platinum_mortgage_bank.webp",
+      "name": "Platinum Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2326",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/refuge_mortgage_bank.webp",
+      "name": "Refuge Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2328",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/stb_mortgage_bank.webp",
+      "name": "STB Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2330",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/trustbond_mortgage_bank.webp",
+      "name": "Trustbond Mortgage Bank",
+      "section": "Mortgage Banks",
+      "nodeId": "1:2332",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/9_payment_service_bank.webp",
+      "name": "9 Payment Service Bank",
+      "section": "Payment Service Banks",
+      "nodeId": "1:2335",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/airtel_smartcash_psb.webp",
+      "name": "Airtel Smartcash PSB",
+      "section": "Payment Service Banks",
+      "nodeId": "1:2337",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/hopepsb.webp",
+      "name": "HopePSB",
+      "section": "Payment Service Banks",
+      "nodeId": "1:2339",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/money_master_psb.webp",
+      "name": "Money Master PSB",
+      "section": "Payment Service Banks",
+      "nodeId": "1:2351",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mtn_momo_psb.webp",
+      "name": "MTN Momo PSB",
+      "section": "Payment Service Banks",
+      "nodeId": "1:2353",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/coronation_merchant_bank.webp",
+      "name": "Coronation Merchant Bank",
+      "section": "Merchant Banks",
+      "nodeId": "3:1934",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fbnquest_merchant_bank.webp",
+      "name": "FBNQuest Merchant Bank",
+      "section": "Merchant Banks",
+      "nodeId": "3:1933",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fsdh_merchant_bank_limited.webp",
+      "name": "FSDH Merchant Bank Limited",
+      "section": "Merchant Banks",
+      "nodeId": "3:1932",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rand_merchant_bank.webp",
+      "name": "Rand Merchant Bank",
+      "section": "Merchant Banks",
+      "nodeId": "3:1931",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/greenwich_merchant_bank.webp",
+      "name": "Greenwich Merchant Bank",
+      "section": "Merchant Banks",
+      "nodeId": "3:1930",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/78_finance_company_limited.webp",
+      "name": "78 Finance Company Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:1998",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/amaanah_finance.webp",
+      "name": "Amaanah Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2000",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ams_finance.webp",
+      "name": "AMS Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2002",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ascensia_finance.webp",
+      "name": "Ascensia Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2004",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/branch_international_finance_company_limited.webp",
+      "name": "Branch International Finance Company Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:2006",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/cardinalstone.webp",
+      "name": "Cardinalstone",
+      "section": "Finance Companies",
+      "nodeId": "1:2009",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/centrum_finance.webp",
+      "name": "CENTRUM FINANCE",
+      "section": "Finance Companies",
+      "nodeId": "1:2017",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ceviant_finance_limited.webp",
+      "name": "Ceviant Finance Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:2019",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/county_finance_limited.webp",
+      "name": "County Finance Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:2023",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/credit_direct_limited.webp",
+      "name": "Credit Direct Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:2032",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/crystal_finance_company_limited.webp",
+      "name": "Crystal Finance Company Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:2034",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/evib_finance.webp",
+      "name": "Evib Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2036",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/factoring_and_supply_chain_finance_limited.webp",
+      "name": "Factoring and Supply Chain Finance Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:2038",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fast_credit_limited.webp",
+      "name": "Fast Credit Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:2040",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fewchore_finance.webp",
+      "name": "Fewchore Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2042",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_marina_trust_finance.webp",
+      "name": "First Marina Trust Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2044",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gadol_finance.webp",
+      "name": "Gadol Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2046",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gdl_finance.webp",
+      "name": "GDL Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2048",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/griffin_finance.webp",
+      "name": "Griffin Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2050",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nolt_finance.webp",
+      "name": "Nolt Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2052",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/northquest_finance.webp",
+      "name": "Northquest Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2056",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pfi_finance_company_limited.webp",
+      "name": "PFI FINANCE COMPANY LIMITED",
+      "section": "Finance Companies",
+      "nodeId": "1:2058",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/prosperis_finance_limited.webp",
+      "name": "PROSPERIS FINANCE LIMITED",
+      "section": "Finance Companies",
+      "nodeId": "1:2065",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sage_grey_finance_limited.webp",
+      "name": "SAGE GREY FINANCE LIMITED",
+      "section": "Finance Companies",
+      "nodeId": "1:2067",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sciart_finance.webp",
+      "name": "Sciart Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2069",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/spring_sky_finance.webp",
+      "name": "Spring Sky Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2086",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/the_brook_finance_ltd.webp",
+      "name": "THE BROOK FINANCE LTD",
+      "section": "Finance Companies",
+      "nodeId": "1:2088",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/whitecrust_finance.webp",
+      "name": "Whitecrust Finance",
+      "section": "Finance Companies",
+      "nodeId": "1:2090",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/zedvance_finance_limited.webp",
+      "name": "Zedvance Finance Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:2092",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/vale_finance_limited.webp",
+      "name": "Vale Finance Limited",
+      "section": "Finance Companies",
+      "nodeId": "1:2100",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/5tt_microfinance_bank.webp",
+      "name": "5TT Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:127",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/9japay_microfinance_bank.webp",
+      "name": "9jaPay Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:129",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ab_mfb.webp",
+      "name": "AB MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:131",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/above_only_mfb.webp",
+      "name": "Above Only MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:268",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/absu_mfb.webp",
+      "name": "ABSU MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:270",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/abu_mfb.webp",
+      "name": "ABU MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:272",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/abulesoro_mfb.webp",
+      "name": "Abulesoro MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:274",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/accion_mfb.webp",
+      "name": "Accion MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:276",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ada_mfb.webp",
+      "name": "Ada MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:278",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/addosser_mfb.webp",
+      "name": "Addosser MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:294",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/adeyemi_college_staff_mfb.webp",
+      "name": "Adeyemi College Staff MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:280",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/advancly_mfb.webp",
+      "name": "Advancly MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:284",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/aella_mfb.webp",
+      "name": "Aella MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:290",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/afole_mfb.webp",
+      "name": "Afole MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:81",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/akalabo_mfb.webp",
+      "name": "Akalabo MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:286",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/aksu_mfb.webp",
+      "name": "AKSU MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:288",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/aku_microfinance_bank.webp",
+      "name": "AKU Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:296",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/akuchukwu_microfinance_bank_limited.webp",
+      "name": "Akuchukwu Microfinance Bank Limited",
+      "section": "Microfinance Banks",
+      "nodeId": "1:298",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/al_barakah_mfb.webp",
+      "name": "Al-Barakah MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:300",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/al_hayat_mfb.webp",
+      "name": "Al-Hayat MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:302",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/alekun_mfb.webp",
+      "name": "Alekun MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:304",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/alert_mfb.webp",
+      "name": "Alert MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:309",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/allworkers_mfb.webp",
+      "name": "Allworkers MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:316",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/alpha_kapital_mfb.webp",
+      "name": "Alpha Kapital MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:318",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/amac_mfb.webp",
+      "name": "AMAC MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:340",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/amju_unique_mfb.webp",
+      "name": "AMJU Unique MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:326",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/amml_mfb.webp",
+      "name": "AMML MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:328",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ample_mfb.webp",
+      "name": "Ample MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:342",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/anioma_mfb.webp",
+      "name": "Anioma MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:344",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/apex_trust_mfb.webp",
+      "name": "Apex Trust MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:334",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/aramoko_mfb.webp",
+      "name": "Aramoko MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:338",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/arcpay_mfb.webp",
+      "name": "ArcPay MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:347",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/arise_microfinance_bank.webp",
+      "name": "Arise Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:349",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/arm_mfb.webp",
+      "name": "ARM MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:351",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/asha_mfb.webp",
+      "name": "Asha MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:86",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/asset_matrix_mfb.webp",
+      "name": "Asset Matrix MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:368",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/assets_microfinance_bank.webp",
+      "name": "Assets Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:366",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/astra_polaris_mfb.webp",
+      "name": "Astra Polaris MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:374",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/auchi_mfb.webp",
+      "name": "Auchi MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:379",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/auchi_poly_mfb.webp",
+      "name": "Auchi Poly MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:381",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/avuenegbe_microfinance_bank.webp",
+      "name": "AVUENEGBE MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:383",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/avvic_mfb.webp",
+      "name": "Avvic MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:370",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/awacash_microfinance_bank.webp",
+      "name": "AWACASH MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:385",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/awesome_mfb.webp",
+      "name": "Awesome MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:372",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/aztec_microfinance_bank_limited.webp",
+      "name": "AZTEC MICROFINANCE BANK LIMITED",
+      "section": "Microfinance Banks",
+      "nodeId": "1:387",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/babcock_mfb.webp",
+      "name": "Babcock MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:400",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/baige_mfb.webp",
+      "name": "Baige MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:402",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/baines_credit_microfinance_bank.webp",
+      "name": "Baines Credit Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:404",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/balogun_gambari_mfb.webp",
+      "name": "Balogun Gambari MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:408",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bam_mfb.webp",
+      "name": "Bam MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:410",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/banc_corp_microfinance_bank.webp",
+      "name": "Banc Corp Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:430",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bank_of_agriculture.webp",
+      "name": "Bank of Agriculture",
+      "section": "Microfinance Banks",
+      "nodeId": "1:412",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bank78_microfinance_bank.webp",
+      "name": "Bank78 Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:432",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bankeasy_mfb.webp",
+      "name": "BankEasy MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:427",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bankit_microfinance_bank_ltd.webp",
+      "name": "BANKIT MICROFINANCE BANK LTD",
+      "section": "Microfinance Banks",
+      "nodeId": "1:434",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bankly_mfb.webp",
+      "name": "BANKLY MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:436",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/baobab_microfinance_bank.webp",
+      "name": "Baobab Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:438",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/barnawa_mfb.webp",
+      "name": "Barnawa MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:440",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bayero_microfinance_bank.webp",
+      "name": "Bayero Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:443",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bc_kash_microfinance_bank.webp",
+      "name": "BC Kash Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:445",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/beamer_mfb.webp",
+      "name": "Beamer MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:452",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bellbank_microfinance_bank.webp",
+      "name": "BellBank Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:454",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/benysta_microfinance_bank_limited.webp",
+      "name": "Benysta Microfinance Bank Limited",
+      "section": "Microfinance Banks",
+      "nodeId": "1:463",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/berachah_microfinance_bank_ltd.webp",
+      "name": "Berachah Microfinance Bank Ltd.",
+      "section": "Microfinance Banks",
+      "nodeId": "1:458",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/beststar_microfinance_bank.webp",
+      "name": "Beststar Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:456",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bethel_mfb.webp",
+      "name": "Bethel MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:467",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bipc_microfinance_bank.webp",
+      "name": "BIPC Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:465",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bkd_new_mfb.webp",
+      "name": "BKD New MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:474",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bloc_mfb.webp",
+      "name": "Bloc MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:476",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/blooms_microfinance_bank.webp",
+      "name": "Blooms Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:482",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bobble_mfb.webp",
+      "name": "Bobble MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:491",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/boctrust_microfinance_bank.webp",
+      "name": "BOCTrust Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:486",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bokkos_mfb.webp",
+      "name": "Bokkos MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:495",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bold_mfb.webp",
+      "name": "BOLD MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:502",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/boost_microfinance_bank.webp",
+      "name": "Boost Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:508",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/borgu_mfb.webp",
+      "name": "Borgu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:500",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/boromu_mfb.webp",
+      "name": "Boromu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:514",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/borstal_mfb.webp",
+      "name": "Borstal MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:516",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bosak_microfinance_bank.webp",
+      "name": "Bosak Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:512",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bowen_microfinance_bank.webp",
+      "name": "Bowen Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:518",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bowman_mfb.webp",
+      "name": "Bowman MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:520",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/brethren_microfinance_bank.webp",
+      "name": "Brethren Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:522",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/brightway_microfinance_bank.webp",
+      "name": "Brightway Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:524",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/build_mfb.webp",
+      "name": "Build MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:526",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bundi_mfb.webp",
+      "name": "Bundi MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:528",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bunkure_mfb.webp",
+      "name": "Bunkure MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:530",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/buypower_mfb.webp",
+      "name": "BuyPower MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:532",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/bway_mfb.webp",
+      "name": "Bway MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:534",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/canaan_mfb.webp",
+      "name": "Canaan MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:536",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/capitalmetriq_swift_microfinance_bank.webp",
+      "name": "Capitalmetriq Swift Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:543",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/capstone_mfb.webp",
+      "name": "Capstone MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:545",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/casa_mfb.webp",
+      "name": "Casa MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:547",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/casha_mfb.webp",
+      "name": "Casha MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:549",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/cashbridge_microfinance_bank_limited.webp",
+      "name": "Cashbridge Microfinance Bank Limited",
+      "section": "Microfinance Banks",
+      "nodeId": "1:551",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/cashconnect_mfb.webp",
+      "name": "CASHCONNECT MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:556",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/cashrite_mfb.webp",
+      "name": "CashRite MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:558",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/cedrus_mfb.webp",
+      "name": "Cedrus MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:560",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/cemcs_microfinance_bank.webp",
+      "name": "CEMCS Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:562",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/chanelle_microfinance_bank_limited.webp",
+      "name": "Chanelle Microfinance Bank Limited",
+      "section": "Microfinance Banks",
+      "nodeId": "1:568",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/charis_mfb.webp",
+      "name": "Charis MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:570",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/chase_mfb.webp",
+      "name": "Chase MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:572",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/chikum_microfinance_bank.webp",
+      "name": "Chikum Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:579",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/clearpay_mfb.webp",
+      "name": "Clearpay MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:583",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/consistent_trust_mfb.webp",
+      "name": "Consistent Trust MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:587",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/consumer_microfinance_bank.webp",
+      "name": "Consumer Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:585",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/cool_microfinance_bank_limited.webp",
+      "name": "Cool Microfinance Bank Limited",
+      "section": "Microfinance Banks",
+      "nodeId": "1:589",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/coopfund_mfb.webp",
+      "name": "COOPFUND MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:591",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/corestep_mfb.webp",
+      "name": "Corestep MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:593",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/covenant_mfb.webp",
+      "name": "Covenant MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:595",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/credit_afrique_microfinance_bank.webp",
+      "name": "Credit Afrique Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:597",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/creditville_mfb.webp",
+      "name": "Creditville MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:599",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/crescent_mfb.webp",
+      "name": "Crescent MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:601",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/crust_microfinance_bank.webp",
+      "name": "Crust Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:603",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/crutech_microfinance_bank_ltd.webp",
+      "name": "CRUTECH MICROFINANCE BANK LTD",
+      "section": "Microfinance Banks",
+      "nodeId": "1:605",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/dabtikir_mfb.webp",
+      "name": "Dabtikir MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:607",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/daily_trust_mfb.webp",
+      "name": "Daily Trust MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:609",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/dal_mfb.webp",
+      "name": "Dal MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:611",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/dash_microfinance_bank.webp",
+      "name": "Dash Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:613",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/davenport_microfinance_bank.webp",
+      "name": "Davenport MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:615",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/daylight_microfinance_bank.webp",
+      "name": "Daylight Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:617",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/dayspring_mfb.webp",
+      "name": "Dayspring MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:619",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/destiny_mfb.webp",
+      "name": "Destiny MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:634",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/digitvant_mfb.webp",
+      "name": "Digitvant MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:638",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/dillon_microfinance_bank.webp",
+      "name": "Dillon Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:640",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/doje_mfb.webp",
+      "name": "Doje MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:642",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/dot_microfinance_bank.webp",
+      "name": "Dot Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:644",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/dsc_microfinance_bank.webp",
+      "name": "DSC Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:646",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/duxbank_mfb.webp",
+      "name": "Duxbank MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:648",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/dw_mfb.webp",
+      "name": "DW MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:650",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/e_barcs_microfinance_bank.webp",
+      "name": "e-Barcs Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:654",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/eagle_flight_microfinance_bank.webp",
+      "name": "Eagle Flight Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:656",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/earnwell_mfb.webp",
+      "name": "Earnwell MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:658",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/eastman_mfb.webp",
+      "name": "Eastman MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:660",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ebsu_microfinance_bank.webp",
+      "name": "EBSU Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:662",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/edfin_microfinance_bank.webp",
+      "name": "Edfin Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:664",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ejindu_mfb.webp",
+      "name": "Ejindu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:666",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ekimogun_mfb.webp",
+      "name": "Ekimogun MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:668",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ekondo_microfinance_bank.webp",
+      "name": "Ekondo Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:670",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ekwulobia_mfb.webp",
+      "name": "Ekwulobia MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:87",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ellington_mfb.webp",
+      "name": "Ellington MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:672",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/emaar_mfb.webp",
+      "name": "Emaar MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:678",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/emeralds_microfinance_bank.webp",
+      "name": "Emeralds Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:680",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/eminence_mfb.webp",
+      "name": "Eminence MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:686",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/empire_trust_microfinance_bank.webp",
+      "name": "Empire Trust Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:690",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/entity_mfb.webp",
+      "name": "Entity MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:697",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/equator_mfb.webp",
+      "name": "Equator MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:699",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/esan_microfinance_bank.webp",
+      "name": "Esan Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:860",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/eso_e_microfinance_bank.webp",
+      "name": "Eso-E Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:701",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ethica_mfb.webp",
+      "name": "Ethica MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:703",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/evangel_microfinance_bank.webp",
+      "name": "Evangel Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:708",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/evergreen_microfinance_bank.webp",
+      "name": "Evergreen Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:710",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/excel_finance_bank.webp",
+      "name": "EXCEL FINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:712",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/excellent_mfb.webp",
+      "name": "Excellent MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:714",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fairmoney_microfinance_bank.webp",
+      "name": "Fairmoney Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:716",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fame_mfb.webp",
+      "name": "Fame MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:722",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fast_microfinance_bank.webp",
+      "name": "FAST Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:724",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fcmb_mfb.webp",
+      "name": "FCMB MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:726",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/federal_polytechnic_nekede_mfb.webp",
+      "name": "Federal Polytechnic Nekede MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:730",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/federal_university_dutse_mfb.webp",
+      "name": "Federal University Dutse MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:732",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fedeth_mfb.webp",
+      "name": "Fedeth MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:738",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ffs_microfinance_bank.webp",
+      "name": "FFS Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:742",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fidfund_microfinance_bank.webp",
+      "name": "Fidfund Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:744",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/finatrust_microfinance_bank.webp",
+      "name": "Finatrust Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:751",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/firmus_microfinance_bank.webp",
+      "name": "Firmus Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:760",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_ally_mfb.webp",
+      "name": "First Ally MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:762",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_multiple_microfinance_bank.webp",
+      "name": "First Multiple Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:766",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_option_microfinance_bank.webp",
+      "name": "First Option Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:770",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/first_royal_microfinance_bank.webp",
+      "name": "First Royal Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:773",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/firstmidas_mfb.webp",
+      "name": "FIRSTMIDAS MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:775",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fit_mfb.webp",
+      "name": "Fit MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:781",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/flexi_mfb.webp",
+      "name": "Flexi MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:783",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/flutterwave.webp",
+      "name": "Flutterwave MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:788",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/focus_mfb.webp",
+      "name": "FOCUS MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:790",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fortis_microfinance_bank.webp",
+      "name": "Fortis Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:795",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fortress_mfb.webp",
+      "name": "Fortress MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:797",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/fullrange_microfinance_bank.webp",
+      "name": "Fullrange Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:799",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/futo_microfinance_bank.webp",
+      "name": "Futo Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:803",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gashua_microfinance_bank.webp",
+      "name": "Gashua Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:807",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/giant_stride_mfb.webp",
+      "name": "Giant Stride MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:809",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/glory_microfinance_bank.webp",
+      "name": "Glory Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:815",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/goldman_mfb.webp",
+      "name": "Goldman MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:817",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gombe_mfb.webp",
+      "name": "Gombe MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:821",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/good_shepherd_microfinance_bank.webp",
+      "name": "GOOD SHEPHERD MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:823",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gosifechukwu_mfb.webp",
+      "name": "Gosifechukwu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:825",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gowans_microfinance_bank.webp",
+      "name": "Gowans Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:827",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/grants_microfinance_bank.webp",
+      "name": "Grants Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:833",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/granule_mfb.webp",
+      "name": "Granule MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:835",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/greenacres_mfb.webp",
+      "name": "Greenacres MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:837",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/greenbank_microfinance_bank.webp",
+      "name": "GreenBank Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:839",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/greenville_microfinance_bank.webp",
+      "name": "Greenville Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:843",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/grooming_microfinance_bank.webp",
+      "name": "Grooming Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:845",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gti_mfb.webp",
+      "name": "GTI MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:847",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/gwong_mfb.webp",
+      "name": "Gwong MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:849",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/hackman_microfinance_bank.webp",
+      "name": "Hackman Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:851",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/halo_mfb.webp",
+      "name": "Halo MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:855",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/hasal_microfinance_bank.webp",
+      "name": "Hasal Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:862",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/hayat_trust_mfb.webp",
+      "name": "Hayat Trust MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:864",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/hillpost_mfb.webp",
+      "name": "Hillpost MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:866",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ibbu_mfb.webp",
+      "name": "IBBU MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:870",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ibile_microfinance_bank.webp",
+      "name": "IBILE Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:872",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/igbo_ukwu_mfb.webp",
+      "name": "Igbo-Ukwu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:874",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ihiala_mfb.webp",
+      "name": "Ihiala MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:876",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ijare_mfb.webp",
+      "name": "Ijare MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:878",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ikenne_microfinance_bank.webp",
+      "name": "Ikenne Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:880",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ikere_mfb.webp",
+      "name": "Ikere MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:882",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ikire_microfinance_bank.webp",
+      "name": "Ikire Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:884",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ikorodu_division_mfb.webp",
+      "name": "Ikorodu Division MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:886",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ikoyi_ile_mfb.webp",
+      "name": "Ikoyi ile MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:888",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ikoyi_osun_mfb.webp",
+      "name": "Ikoyi Osun MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:911",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ilaro_poly_microfinance_bank.webp",
+      "name": "Ilaro Poly Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:916",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ile_oluji_mfb.webp",
+      "name": "Ile Oluji MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:945",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ilora_mfb.webp",
+      "name": "Ilora MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:949",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ilutitun_osoro_mfb.webp",
+      "name": "ILUTITUN-OSORO MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:951",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/imo_state_microfinance_bank.webp",
+      "name": "Imo State Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:953",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/imowo_mfb.webp",
+      "name": "Imowo MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:955",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/imsu_mfb.webp",
+      "name": "IMSU MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:957",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/indulge_mfb.webp",
+      "name": "INDULGE MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:962",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ineba_gogo_mfb.webp",
+      "name": "INEBA GOGO MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:969",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/infinity_microfinance_bank.webp",
+      "name": "Infinity Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:972",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/innovative_mfb.webp",
+      "name": "Innovative MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:868",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/insight_mfb.webp",
+      "name": "Insight MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:974",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/investin_mfb.webp",
+      "name": "Investin MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:978",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/irl_microfinance_bank.webp",
+      "name": "IRL Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:980",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/isi_uzo_mfb.webp",
+      "name": "Isi-Uzo MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:982",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/isuofia_mfb.webp",
+      "name": "Isuofia MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:986",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/jeje_mfb.webp",
+      "name": "Jeje MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:90",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/jubileelife_mortgage_bank.webp",
+      "name": "JubileeLife MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:988",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kadpoly_mfb.webp",
+      "name": "Kadpoly MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:990",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kadupe_mfb.webp",
+      "name": "Kadupe MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:992",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kaizen_mfb.webp",
+      "name": "Kaizen MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:994",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kanopoly_mfb.webp",
+      "name": "KANOPOLY MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:996",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/katagum_mfb.webp",
+      "name": "Katagum MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:998",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/katsu_mfb.webp",
+      "name": "Katsu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1000",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kayi_mfb.webp",
+      "name": "Kayi MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1002",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kayvee_microfinance_bank.webp",
+      "name": "Kayvee Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1004",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kc_microfinance_bank.webp",
+      "name": "KC Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1008",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kcmb_microfinance_bank.webp",
+      "name": "KCMB Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1006",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kenechukwu_mfb.webp",
+      "name": "Kenechukwu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1010",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/koboweb_mfb.webp",
+      "name": "Koboweb MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1014",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/koins_mfb.webp",
+      "name": "Koins MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1020",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kolisa_mfb.webp",
+      "name": "Kolisa MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1022",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kolomoni_mfb.webp",
+      "name": "Kolomoni MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1024",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kontagora_microfinance_bank.webp",
+      "name": "Kontagora Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1026",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kredi_money_mfb_ltd.webp",
+      "name": "Kredi Money MFB LTD",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1028",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/kuda_mfb.webp",
+      "name": "Kuda MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1030",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/la_fayette_microfinance_bank.webp",
+      "name": "La Fayette Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1034",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/lapo_microfinance_bank.webp",
+      "name": "Lapo Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1036",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/lavender_microfinance_bank.webp",
+      "name": "Lavender Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1038",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/lawyers_mfb.webp",
+      "name": "Lawyers MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1040",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/leadcity_mfb.webp",
+      "name": "Leadcity MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1042",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/letshego_microfinance_bank.webp",
+      "name": "Letshego Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1046",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/levite_mfb.webp",
+      "name": "Levite MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1048",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/lifegate_mfb.webp",
+      "name": "LifeGate MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1050",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/lightway_mfb.webp",
+      "name": "Lightway MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1052",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/links_mfb.webp",
+      "name": "Links MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1054",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/liquidcrest_mfb.webp",
+      "name": "Liquidcrest MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1059",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/loma_bank.webp",
+      "name": "Loma Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1061",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/lovonus_microfinance_bank.webp",
+      "name": "Lovonus Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1063",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/maal_mfb.webp",
+      "name": "Maal MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1065",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mahfuz_mfb.webp",
+      "name": "MAHFUZ MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1130",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mainland_microfinance_bank.webp",
+      "name": "Mainland Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1132",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mainstreet_microfinance_bank.webp",
+      "name": "Mainstreet Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1134",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/malachy_microfinance_bank.webp",
+      "name": "Malachy Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1136",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mango_mfb.webp",
+      "name": "Mango MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:91",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/manny_microfinance_bank.webp",
+      "name": "Manny Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1138",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mautech_microfinance_bank.webp",
+      "name": "Mautech Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1140",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/maxitrust_mfb.webp",
+      "name": "Maxitrust MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1142",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mayden_mfb.webp",
+      "name": "Mayden MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1144",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mayfair_microfinance_bank.webp",
+      "name": "Mayfair Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1146",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mega_microfinance_bank.webp",
+      "name": "Mega Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1148",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mercury_mfb.webp",
+      "name": "Mercury MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1152",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mia_mfb.webp",
+      "name": "Mia MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1167",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/michael_okpara_uniagric_mfb.webp",
+      "name": "MICHAEL OKPARA UNIAGRIC MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1192",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/microbiz_mfb.webp",
+      "name": "Microbiz MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1170",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mint_finex_mfb.webp",
+      "name": "MINT-FINEX MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1172",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mkobo_mfb.webp",
+      "name": "Mkobo MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1174",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/model_mfb.webp",
+      "name": "Model MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1176",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/moneyfield_mfb.webp",
+      "name": "Moneyfield MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:581",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/moneytronics_mfb.webp",
+      "name": "Moneytronics MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1178",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/monieking_mfb.webp",
+      "name": "Monieking MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1180",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/moniepoint.webp",
+      "name": "Moniepoint",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1188",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/moremonee_mfb.webp",
+      "name": "Moremonee MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1190",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/mutual_benefits_microfinance_bank.webp",
+      "name": "MUTUAL BENEFITS MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1196",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/naf_mfb.webp",
+      "name": "NAF MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1198",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nasarawa_mfb.webp",
+      "name": "Nasarawa MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1202",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nddc_microfinance_bank.webp",
+      "name": "NDDC MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1204",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/neptune_mfb.webp",
+      "name": "Neptune MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1206",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/net_microfinance_bank.webp",
+      "name": "NET MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1211",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/new_dawn_mfb.webp",
+      "name": "New Dawn MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1213",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nexton_mfb.webp",
+      "name": "Nexton MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1217",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nigerian_navy_microfinance_bank_limited.webp",
+      "name": "Nigerian Navy Microfinance Bank Limited",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1219",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nigerian_prisons_mfb.webp",
+      "name": "Nigerian Prisons MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1221",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nirsal_microfinance.webp",
+      "name": "NIRSAL MICROFINANCE",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1223",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nomase_mfb.webp",
+      "name": "Nomase MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1255",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nombank_mfb.webp",
+      "name": "Nombank MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1257",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/noun_mfb.webp",
+      "name": "Noun MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1259",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/novel_mfb.webp",
+      "name": "Novel MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1261",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/novus_mfb.webp",
+      "name": "Novus MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1263",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/npf_microfinance_bank.webp",
+      "name": "NPF MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1268",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nsuk_mfb.webp",
+      "name": "NSUK MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1272",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nsukka_mfb.webp",
+      "name": "Nsukka MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1275",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nuggets_mfb.webp",
+      "name": "Nuggets MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1277",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/nwannegadi_mfb.webp",
+      "name": "Nwannegadi MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1279",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/oba_mfb.webp",
+      "name": "Oba MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1281",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/obollo_mfb.webp",
+      "name": "Obollo MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1283",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/oche_mfb.webp",
+      "name": "Oche MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1288",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/octopus_mfb.webp",
+      "name": "Octopus MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1290",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/odoakpu_mfb.webp",
+      "name": "Odoakpu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1292",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ogige_mfb.webp",
+      "name": "Ogige MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1302",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ohha_mfb.webp",
+      "name": "Ohha MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1304",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ok_mfb.webp",
+      "name": "OK MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1306",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/oko_mfb.webp",
+      "name": "OKO MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1312",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/okpe_mfb.webp",
+      "name": "Okpe MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1314",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/okwo_oha_mfb.webp",
+      "name": "OKWO-OHA MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1316",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/olabisi_onabanjo_university_microfinance_bank.webp",
+      "name": "Olabisi Onabanjo University Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1319",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/old_shoreham_mfb.webp",
+      "name": "Old Shoreham MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1321",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/olive_mfb.webp",
+      "name": "Olive MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1323",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/olomu_aperan_mfb.webp",
+      "name": "Olomu Aperan MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1325",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/oluchukwu_microfinance_bank_ltd.webp",
+      "name": "OLUCHUKWU MICROFINANCE BANK LTD",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1327",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/omak_mfb.webp",
+      "name": "Omak MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1336",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/oneutility_mfb.webp",
+      "name": "OneUtility MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:85",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/onewallet_mfb.webp",
+      "name": "Onewallet MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:88",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/oraukwu_mfb.webp",
+      "name": "Oraukwu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1338",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/oscotech_mfb.webp",
+      "name": "Oscotech MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1342",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/otech_mfb.webp",
+      "name": "Otech MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1346",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ourpass_mfb.webp",
+      "name": "Ourpass MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1355",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ours_mfb.webp",
+      "name": "Ours MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1357",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/oye_versity_mfb.webp",
+      "name": "Oye Versity MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:80",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/p_up_mfb.webp",
+      "name": "P-UP MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1359",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pact_mfb.webp",
+      "name": "Pact MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1361",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pathfinder_microfinance_bank_limited.webp",
+      "name": "PATHFINDER MICROFINANCE BANK LIMITED",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1363",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/patrickgold_mfb.webp",
+      "name": "Patrickgold MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1365",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/payrep_mfb.webp",
+      "name": "Payrep MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1367",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/paystack_mfb.webp",
+      "name": "Paystack MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1369",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/peace_microfinance_bank.webp",
+      "name": "Peace Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1371",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pecantrust_microfinance_bank_limited.webp",
+      "name": "PECANTRUST MICROFINANCE BANK LIMITED",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1373",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pennywise_mfb.webp",
+      "name": "Pennywise MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1375",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/personal_trust_mfb.webp",
+      "name": "Personal Trust MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1379",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/petra_mircofinance_bank_plc.webp",
+      "name": "Petra Mircofinance Bank Plc",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1381",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pettysave_mfb.webp",
+      "name": "Pettysave MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1383",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/platinum_mfb.webp",
+      "name": "Platinum MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1385",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/plug_mfb.webp",
+      "name": "Plug MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1387",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pointone_mfb.webp",
+      "name": "POINTONE MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1389",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/polyibadan_mfb.webp",
+      "name": "Polyibadan MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1391",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/polyunwana_mfb.webp",
+      "name": "Polyunwana MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1393",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/prestige_mfb.webp",
+      "name": "Prestige MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1395",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pristine_divitis_mfb.webp",
+      "name": "Pristine Divitis MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1397",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/prodigy_mfb.webp",
+      "name": "Prodigy MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1399",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/prospa_capital_microfinance_bank.webp",
+      "name": "Prospa Capital Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1401",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/prudent_bank.webp",
+      "name": "Prudent Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1403",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/pyramid_mfb.webp",
+      "name": "Pyramid MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1409",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/qube_mfb.webp",
+      "name": "Qube MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1411",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/quickfund_mfb.webp",
+      "name": "QuickFund MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1419",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rank_mfb.webp",
+      "name": "Rank MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "125:2",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rayyan_mfb.webp",
+      "name": "Rayyan MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1425",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rehoboth_microfinance_bank.webp",
+      "name": "REHOBOTH MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1429",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/reliance_mfb.webp",
+      "name": "Reliance MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1433",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/renmoney_mfb.webp",
+      "name": "Renmoney MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1435",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rephidim_microfinance_bank.webp",
+      "name": "Rephidim Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1437",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/retrust_mfb.webp",
+      "name": "Retrust Mfb",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1439",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/revelation_mfb.webp",
+      "name": "Revelation MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1441",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rex_mfb.webp",
+      "name": "Rex MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1443",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ric_mfb.webp",
+      "name": "Ric MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1445",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rigo_microfinance_bank_limited.webp",
+      "name": "Rigo Microfinance Bank Limited",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1447",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rima_growth_pathway_mfb.webp",
+      "name": "Rima Growth Pathway MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1449",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rockshield_microfinance_bank.webp",
+      "name": "ROCKSHIELD MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1457",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/royal_blue_mfb.webp",
+      "name": "Royal Blue MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1459",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/royal_exchange_mfb.webp",
+      "name": "Royal Exchange MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1463",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rsu_mfb.webp",
+      "name": "RSU MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1465",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/rubies_mfb.webp",
+      "name": "Rubies MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1467",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/run_mfb.webp",
+      "name": "Run MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1471",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sabi_mfb.webp",
+      "name": "Sabi MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1473",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/safe_haven_mfb.webp",
+      "name": "Safe Haven MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1475",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/safeline_mfb.webp",
+      "name": "Safeline MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:84",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sagamu_mfb.webp",
+      "name": "Sagamu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1480",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/seedvest_mfb.webp",
+      "name": "Seedvest MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1482",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/shalom_mfb.webp",
+      "name": "Shalom MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1484",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/shanono_mfb.webp",
+      "name": "Shanono MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1491",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/shepherd_trust_mfb.webp",
+      "name": "Shepherd Trust MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1493",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/shield_mfb.webp",
+      "name": "Shield MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1495",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/shine_mfb.webp",
+      "name": "Shine MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:82",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sincere_mfb.webp",
+      "name": "Sincere MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1497",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sofritrust_mfb.webp",
+      "name": "Sofritrust MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1499",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/solid_allianze_mfb.webp",
+      "name": "Solid Allianze MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1501",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/solid_rock_mfb.webp",
+      "name": "Solid Rock MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1504",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/soroman_mfb.webp",
+      "name": "Soroman MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1506",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sosa_mfb.webp",
+      "name": "Sosa MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1508",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/source_mfb.webp",
+      "name": "Source MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1510",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sparkle.webp",
+      "name": "Sparkle MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1512",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/spectrum_mfb.webp",
+      "name": "Spectrum MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1516",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/springfield_microfinance_bank.webp",
+      "name": "Springfield Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1522",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/springville_mfb.webp",
+      "name": "Springville MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1524",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/stable_mfb.webp",
+      "name": "Stable MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1526",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/stanford_mfb.webp",
+      "name": "STANFORD MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1528",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/stateside_mfb.webp",
+      "name": "STATESIDE MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1533",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/stellas_mfb.webp",
+      "name": "Stellas MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1535",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sulspap_mfb.webp",
+      "name": "Sulspap MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1542",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/suntop_mfb.webp",
+      "name": "Suntop MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1544",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/support_mfb.webp",
+      "name": "Support MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1546",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/supreme_mfb.webp",
+      "name": "Supreme MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1550",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sure_anchor_mfb.webp",
+      "name": "Sure Anchor MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1558",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/swift_trust_mfb.webp",
+      "name": "SWIFT TRUST MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1560",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/sycamore_mfb.webp",
+      "name": "Sycamore MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1567",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/taj_pinspay.webp",
+      "name": "TAJ Pinspay",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1569",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/teerus_mfb.webp",
+      "name": "Teerus MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1591",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/tellerone_fi_mfb.webp",
+      "name": "Tellerone FI MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1593",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/tenn.webp",
+      "name": "TENN MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1595",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/the_millennium_mfb.webp",
+      "name": "The Millennium MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1597",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/think_finance_mfb.webp",
+      "name": "Think Finance MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1599",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/tofa_mfb.webp",
+      "name": "TOFA MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1601",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/toprate_mfb.webp",
+      "name": "Toprate MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1606",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/transpay_mfb.webp",
+      "name": "TransPay MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1616",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/treasures_mfb.webp",
+      "name": "Treasures MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1618",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/trustbanc_j6_mfb.webp",
+      "name": "TRUSTBANC J6 MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1620",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/u_and_c_mfb.webp",
+      "name": "U & C MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1622",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ubj_mfb.webp",
+      "name": "UBJ MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1624",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/uda_mfb.webp",
+      "name": "UDA MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1631",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/uforo_mfb.webp",
+      "name": "Uforo MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1633",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/uga_mfb.webp",
+      "name": "Uga MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1635",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/uhuru_mfb.webp",
+      "name": "Uhuru MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1637",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ultimate_mfb.webp",
+      "name": "Ultimate MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "3:466",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ultrapay_mfb.webp",
+      "name": "Ultrapay MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:92",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/ultraviolet_microfinance_bank.webp",
+      "name": "Ultraviolet Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1643",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/umuchinemere_procredit_mfb.webp",
+      "name": "UMUCHINEMERE PROCREDIT MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1650",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/umuchukwu_bank.webp",
+      "name": "Umuchukwu Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1652",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/umunnachi_mfb.webp",
+      "name": "Umunnachi MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1654",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/umunri_mfb.webp",
+      "name": "Umunri MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1656",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/umuoji_mfb.webp",
+      "name": "Umuoji MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1658",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/unaab_microfinance_bank_limited.webp",
+      "name": "Unaab Microfinance Bank Limited",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1660",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/uniabuja_mfb.webp",
+      "name": "UNIABUJA MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1662",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/unical_mfb.webp",
+      "name": "Unical MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1664",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/unilag_microfinance_bank.webp",
+      "name": "Unilag Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1666",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/unimaid_microfinance_bank.webp",
+      "name": "UNIMAID MICROFINANCE BANK",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1668",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/uniuyo_microfinance_bank_ltd.webp",
+      "name": "UNIUYO Microfinance Bank Ltd",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1674",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/unubi_mfb.webp",
+      "name": "Unubi MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1676",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/uzondu_mfb.webp",
+      "name": "Uzondu MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1682",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/vfd_microfinance_bank_limited.webp",
+      "name": "VFD Microfinance Bank Limited",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1684",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/victory_mfb.webp",
+      "name": "Victory MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1686",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/vista_mfb.webp",
+      "name": "Vista MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1688",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/waila_mfb.webp",
+      "name": "Waila MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1690",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/wallet_mfb.webp",
+      "name": "Wallet MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1692",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/waya_microfinance_bank.webp",
+      "name": "Waya Microfinance Bank",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1694",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/we_mfb.webp",
+      "name": "WE MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1696",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/weston_charis_mfb.webp",
+      "name": "Weston Charis MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1698",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/yabo_mfb.webp",
+      "name": "Yabo MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:83",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/yes_mfb.webp",
+      "name": "Yes MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1702",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/zain_mfb.webp",
+      "name": "Zain MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1704",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/zefa_mfb.webp",
+      "name": "Zefa MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1706",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/zeus_mfb.webp",
+      "name": "Zeus MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "223:89",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "banks/zitra_mfb.webp",
+      "name": "Zitra MFB",
+      "section": "Microfinance Banks",
+      "nodeId": "1:1708",
+      "source": "https://www.figma.com/design/fKsxiu0UIy3IrXcK0bM0cT/Nigerian-Bank-Logos--Community-?node-id=0-1"
+    },
+    {
+      "path": "billers/mtn.webp",
+      "name": "MTN",
+      "section": "Airtime",
+      "nodeId": "179804:6220",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/airtel.webp",
+      "name": "Airtel",
+      "section": "Airtime",
+      "nodeId": "179804:6221",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/t2_mobile.webp",
+      "name": "T2 Mobile",
+      "section": "Airtime",
+      "nodeId": "179804:6222",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/glo.webp",
+      "name": "Glo",
+      "section": "Airtime",
+      "nodeId": "179804:6223",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/vitel_wireless.webp",
+      "name": "vitel Wireless",
+      "section": "Airtime",
+      "nodeId": "179804:6224",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/smile.webp",
+      "name": "Smile",
+      "section": "Internet",
+      "nodeId": "179804:6294",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/ipnx.webp",
+      "name": "ipNX",
+      "section": "Internet",
+      "nodeId": "179804:6295",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/spectranet.webp",
+      "name": "Spectranet",
+      "section": "Internet",
+      "nodeId": "179804:6296",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/swift.webp",
+      "name": "Swift",
+      "section": "Internet",
+      "nodeId": "179804:6297",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/ntel.webp",
+      "name": "ntel",
+      "section": "Internet",
+      "nodeId": "179804:6298",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/dstv.webp",
+      "name": "Dstv",
+      "section": "TV",
+      "nodeId": "179804:5930",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/gotv.webp",
+      "name": "GOTv",
+      "section": "TV",
+      "nodeId": "179804:5932",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/startime.webp",
+      "name": "Startime",
+      "section": "TV",
+      "nodeId": "179804:5934",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/showmax.webp",
+      "name": "Showmax",
+      "section": "TV",
+      "nodeId": "179804:5936",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/prime_video.webp",
+      "name": "Prime video",
+      "section": "TV",
+      "nodeId": "179804:5938",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/netflix.webp",
+      "name": "Netflix",
+      "section": "TV",
+      "nodeId": "179804:5940",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/kaedco_kaduna.webp",
+      "name": "KAEDCO - Kaduna",
+      "section": "Electricity",
+      "nodeId": "179804:6066",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/ikedc_ikeja.webp",
+      "name": "IKEDC - Ikeja",
+      "section": "Electricity",
+      "nodeId": "179804:6068",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/jedc_jos.webp",
+      "name": "JEDC - Jos",
+      "section": "Electricity",
+      "nodeId": "179804:6092",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/kedco_kano.webp",
+      "name": "KEDCO - Kano",
+      "section": "Electricity",
+      "nodeId": "179804:6094",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/ekedc_eko.webp",
+      "name": "EKEDC - Eko",
+      "section": "Electricity",
+      "nodeId": "179804:6096",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/aedc_abuja.webp",
+      "name": "AEDC - Abuja",
+      "section": "Electricity",
+      "nodeId": "179804:6098",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/bedc_benin.webp",
+      "name": "BEDC - Benin",
+      "section": "Electricity",
+      "nodeId": "179804:6100",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/eedc_enugu.webp",
+      "name": "EEDC - Enugu",
+      "section": "Electricity",
+      "nodeId": "179804:6102",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/ibedc_ibadan.webp",
+      "name": "IBEDC - Ibadan",
+      "section": "Electricity",
+      "nodeId": "179804:6104",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/phedc_ph.webp",
+      "name": "PHEDC - PH",
+      "section": "Electricity",
+      "nodeId": "179804:6106",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/yedc_yola.webp",
+      "name": "YEDC - Yola",
+      "section": "Electricity",
+      "nodeId": "179804:6108",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    },
+    {
+      "path": "billers/aple_aba.webp",
+      "name": "APLE - Aba",
+      "section": "Electricity",
+      "nodeId": "179804:6110",
+      "source": "https://www.figma.com/design/LRWHl0VBqwGPvB8WJYnHKo/Foundation?node-id=2771-1469"
+    }
+  ]
+}
