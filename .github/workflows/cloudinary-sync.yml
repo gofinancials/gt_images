@@ -1,0 +1,42 @@
+name: Sync assets to Cloudinary
+
+# Uploads .webp files changed on main to Cloudinary at the same path, so
+# adding or replacing an image here is all a contributor has to do.
+# Run it by hand (Actions → Run workflow) to re-upload every asset.
+#
+# Needs repo settings: secrets CLOUDINARY_API_KEY and CLOUDINARY_API_SECRET,
+# and variable CLOUDINARY_CLOUD_NAME.
+
+on:
+  push:
+    branches: [main]
+    paths: ['**.webp']
+  workflow_dispatch:
+
+concurrency: cloudinary-sync
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Upload changed assets
+        env:
+          CLOUDINARY_CLOUD_NAME: ${{ vars.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            node scripts/cloudinary_sync.mjs
+          else
+            git diff --name-only --diff-filter=AM -z "$BEFORE" "$GITHUB_SHA" -- '*.webp' \
+              | xargs -0 -r node scripts/cloudinary_sync.mjs
+          fi
